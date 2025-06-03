@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Mango",
+    "color": "Gul/orange",
+    "origin": "Indien",
+    "description": "Söt och saftig stenfrukt, populär i smoothies och efterrätter.",
+    "image": "https://example.com/images/mango.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banan",
+    "color": "Gul",
+    "origin": "Sydostasien",
+    "description": "Mjuk och söt, rik på kalium. Äts ofta som mellanmål.",
+    "image": "https://example.com/images/banana.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Äpple",
+    "color": "Röd/grön",
+    "origin": "Centralasien",
+    "description": "Krispig frukt som finns i många sorter och smaker.",
+    "image": "https://example.com/images/apple.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ananas",
+    "color": "Gul (inuti), brun/grön (utanpå)",
+    "origin": "Sydamerika",
+    "description": "Tropisk frukt med söt och syrlig smak.",
+    "image": "https://example.com/images/pineapple.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kiwi",
+    "color": "Grön (inuti), brun (utanpå)",
+    "origin": "Kina",
+    "description": "Syrlig och vitaminrik frukt med ett karakteristiskt hårigt skal.",
+    "image": "https://example.com/images/kiwi.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Vattenmelon",
+    "color": "Grön (skal), röd (inuti)",
+    "origin": "Afrika",
+    "description": "Stor, saftig frukt perfekt för sommaren.",
+    "image": "https://example.com/images/watermelon.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apelsin",
+    "color": "Orange",
+    "origin": "Kina",
+    "description": "Citrusfrukt rik på C-vitamin med söt och syrlig smak.",
+    "image": "https://example.com/images/orange.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Persika",
+    "color": "Gul/orange med röd nyans",
+    "origin": "Kina",
+    "description": "Söt och saftig stenfrukt med mjukt luddigt skal.",
+    "image": "https://example.com/images/peach.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Plommon",
+    "color": "Lila",
+    "origin": "Europa och Asien",
+    "description": "Söt till syrlig frukt som kan ätas färsk eller torkad.",
+    "image": "https://example.com/images/plum.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Körsbär",
+    "color": "Röd",
+    "origin": "Europa och Asien",
+    "description": "Små bär med sten, söta eller syrliga beroende på sort.",
+    "image": "https://example.com/images/cherry.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Päron",
+    "color": "Grön/gul",
+    "origin": "Europa",
+    "description": "Söt och saftig frukt med karakteristisk form.",
+    "image": "https://example.com/images/pear.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Granatäpple",
+    "color": "Röd",
+    "origin": "Iran till norra Indien",
+    "description": "Frukt fylld med ätbara kärnor som är rika på antioxidanter.",
+    "image": "https://example.com/images/pomegranate.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Papaya",
+    "color": "Orange",
+    "origin": "Centralamerika",
+    "description": "Söt frukt med mjukt fruktkött och svarta frön i mitten.",
+    "image": "https://example.com/images/papaya.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Lime",
+    "color": "Grön",
+    "origin": "Sydostasien",
+    "description": "Syrlig citrusfrukt som används i matlagning och dryck.",
+    "image": "https://example.com/images/lime.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Citron",
+    "color": "Gul",
+    "origin": "Indien",
+    "description": "Mycket syrlig citrusfrukt, vanlig i drycker och bakverk.",
+    "image": "https://example.com/images/lemon.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Druvor",
+    "color": "Grön, röd eller svart",
+    "origin": "Mellanöstern",
+    "description": "Små söta frukter som kan ätas färska eller bli vin.",
+    "image": "https://example.com/images/grapes.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Passionsfrukt",
+    "color": "Lila (skal), gul (inuti)",
+    "origin": "Sydamerika",
+    "description": "Aromatisk frukt med syrlig smak och geléliknande inre.",
+    "image": "https://example.com/images/passionfruit.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Rambutan",
+    "color": "Röd med taggar",
+    "origin": "Sydostasien",
+    "description": "Exotisk frukt med söt, vit insida och lurvig utsida.",
+    "image": "https://example.com/images/rambutan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Guava",
+    "color": "Grön eller gul (skal), rosa eller vit (inuti)",
+    "origin": "Centralamerika",
+    "description": "Söt frukt rik på fibrer och C-vitamin.",
+    "image": "https://example.com/images/guava.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Fikon",
+    "color": "Lila eller brun",
+    "origin": "Mellanöstern",
+    "description": "Mjuk frukt med söt smak och många små kärnor.",
+    "image": "https://example.com/images/fig.jpg"
+  }
+]

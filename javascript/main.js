@@ -27,7 +27,7 @@ function displayFruits(fruitList) {
     fruitCard.style.border = "1px solid #ccc";
     fruitCard.style.margin = "10px";
     fruitCard.style.padding = "10px";
-    // fruitCard.style.width = "300px";
+
     //Tillsätter bild + alt samt namn och knapp och länk till den detajerade infovyn, med hjälp av id.
     fruitCard.innerHTML = `
       <img src="${fruit.image}" alt="${fruit.name}" width="100%">
